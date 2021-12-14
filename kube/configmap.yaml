@@ -9,7 +9,6 @@ data:
   THUMBOR_NUM_PROCESSES: "2"
   THUMBOR_PORT: "80"
 kind: ConfigMap
-  name: config-thumbor-dev
 metadata:
   name: config-thumbor-dev
   namespace: default
